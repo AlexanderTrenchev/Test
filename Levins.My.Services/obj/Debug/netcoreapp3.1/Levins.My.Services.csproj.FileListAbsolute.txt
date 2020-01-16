@@ -1,0 +1,11 @@
+D:\KlevretProjects\Levins.My\Levins.My.Services\bin\Debug\netcoreapp3.1\Levins.My.Services.deps.json
+D:\KlevretProjects\Levins.My\Levins.My.Services\bin\Debug\netcoreapp3.1\Levins.My.Services.dll
+D:\KlevretProjects\Levins.My\Levins.My.Services\obj\Debug\netcoreapp3.1\Levins.My.Services.csprojAssemblyReference.cache
+D:\KlevretProjects\Levins.My\Levins.My.Services\obj\Debug\netcoreapp3.1\Levins.My.Services.AssemblyInfoInputs.cache
+D:\KlevretProjects\Levins.My\Levins.My.Services\obj\Debug\netcoreapp3.1\Levins.My.Services.AssemblyInfo.cs
+D:\KlevretProjects\Levins.My\Levins.My.Services\bin\Debug\netcoreapp3.1\Levins.My.Services.pdb
+D:\KlevretProjects\Levins.My\Levins.My.Services\bin\Debug\netcoreapp3.1\Levins.My.Data.dll
+D:\KlevretProjects\Levins.My\Levins.My.Services\bin\Debug\netcoreapp3.1\Levins.My.Data.pdb
+D:\KlevretProjects\Levins.My\Levins.My.Services\obj\Debug\netcoreapp3.1\Levins.My.Services.csproj.CopyComplete
+D:\KlevretProjects\Levins.My\Levins.My.Services\obj\Debug\netcoreapp3.1\Levins.My.Services.dll
+D:\KlevretProjects\Levins.My\Levins.My.Services\obj\Debug\netcoreapp3.1\Levins.My.Services.pdb

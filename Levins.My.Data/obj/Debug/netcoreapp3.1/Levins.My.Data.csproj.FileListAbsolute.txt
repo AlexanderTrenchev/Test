@@ -1,0 +1,8 @@
+D:\KlevretProjects\Levins.My\Levins.My.Data\bin\Debug\netcoreapp3.1\Levins.My.Data.deps.json
+D:\KlevretProjects\Levins.My\Levins.My.Data\bin\Debug\netcoreapp3.1\Levins.My.Data.dll
+D:\KlevretProjects\Levins.My\Levins.My.Data\obj\Debug\netcoreapp3.1\Levins.My.Data.AssemblyInfoInputs.cache
+D:\KlevretProjects\Levins.My\Levins.My.Data\obj\Debug\netcoreapp3.1\Levins.My.Data.AssemblyInfo.cs
+D:\KlevretProjects\Levins.My\Levins.My.Data\obj\Debug\netcoreapp3.1\Levins.My.Data.csprojAssemblyReference.cache
+D:\KlevretProjects\Levins.My\Levins.My.Data\bin\Debug\netcoreapp3.1\Levins.My.Data.pdb
+D:\KlevretProjects\Levins.My\Levins.My.Data\obj\Debug\netcoreapp3.1\Levins.My.Data.dll
+D:\KlevretProjects\Levins.My\Levins.My.Data\obj\Debug\netcoreapp3.1\Levins.My.Data.pdb
